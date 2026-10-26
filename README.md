@@ -9,3 +9,15 @@ PCB DESIGN:
 
 3D PCB MODEL:  
 <img width="770" height="675" alt="Screenshot 2026-10-25 221626" src="https://github.com/user-attachments/assets/5dae2e4d-d4d0-4e51-8231-0420cf4ea080" />
+
+## Bill of Materials (BOM)
+
+| Part | Qty | Unit | Total | Vendor |
+| :--- | :---: | :---: | :---: | :--- |
+| **Custom PCB**<br><sub>connecting all components via electrical signals (?)</sub> | 5 | $0.80 | $4.00 | [JLCPCB](https://jlcpcb.com) |
+| **Waveshare ESP32-S3**<br><sub>microcontroller</sub> | 1 | $5.12 | $5.12 | [AliExpress](https://www.aliexpress.com) |
+| **switches**<br><sub>interaction</sub> | 10 | $0.10 | $1.00 | [AliExpress](https://www.aliexpress.com) |
+| **SK6812 MINI-E Neopixels**<br><sub>glow</sub> | 10 | $0.30 | $3.00 | [AdaFruit](https://www.adafruit.com) |
+| **ec11 rotary encoder**<br><sub>interaction</sub> | 1 | $2.14 | $2.14 | [AliExpress](https://www.aliexpress.com) |
+| **Tax & shipping**<br><sub>for the whole order</sub> | - | - | $17.42 | - |
+| **TOTAL** | - | - | #32.68 | - |
